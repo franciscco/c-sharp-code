@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUI", "CUI\CUI.csproj", "{36330249-7AC8-4CD1-9A32-D801D44CB388}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaJuego", "LogicaJuego\LogicaJuego.csproj", "{C5E5D569-7C92-4C8F-ADE3-2DF888368E2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{36330249-7AC8-4CD1-9A32-D801D44CB388}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36330249-7AC8-4CD1-9A32-D801D44CB388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36330249-7AC8-4CD1-9A32-D801D44CB388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E5D569-7C92-4C8F-ADE3-2DF888368E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E5D569-7C92-4C8F-ADE3-2DF888368E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E5D569-7C92-4C8F-ADE3-2DF888368E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E5D569-7C92-4C8F-ADE3-2DF888368E2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
